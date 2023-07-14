@@ -17,7 +17,7 @@ int main(void)
 		putchar(digit);
 
 		if (digit ==7)
-			digit += 39
+			digit += 39;
 		digit++;
 	}
 	putchar('\n');
