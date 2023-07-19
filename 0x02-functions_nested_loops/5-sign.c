@@ -4,7 +4,7 @@
  * print_sign - print + if integer is positive &
  * - if it is negative and 0 if it is zero
  *
- * @c: takes integer tyoe input for function
+ * @n: takes integer tyoe input for function
  *
  * Return: 1 if +, 0 if 0and -1 if -
 */
