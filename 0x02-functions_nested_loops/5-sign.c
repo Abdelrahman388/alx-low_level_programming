@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * print_sign - print + if integer is positive & - if it is negative and 0 if it is zero
+ * print_sign - print + if integer is positive &
+ * - if it is negative and 0 if it is zero
  *
  * @c: takes integer tyoe input for function
  *
