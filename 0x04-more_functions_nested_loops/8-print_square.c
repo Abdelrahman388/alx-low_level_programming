@@ -3,7 +3,9 @@
 /**
  * print_square - print a diagonal
  *
- * @n: the number of times
+ * @size: the square size
+ *
+ * Return: 0
 */
 
 void print_square(int size)
