@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - print a straight line
+ * print_diagonal - print a diagonal
  *
  * @n: the number of times
 */
@@ -18,7 +18,7 @@ void print_diagonal(int n)
 		{
 			for (s = 1; s <= p; s++)
 				_putchar(' ');
-			_putchar('\');
+			_putchar(92);
 			_putchar('\n');
 		}
 	}
