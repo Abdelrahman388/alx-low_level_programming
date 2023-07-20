@@ -17,7 +17,7 @@ int main(void)
 	{
 		s = fib1 + fib2;
 		printf("%lu", s);
-		
+
 		fib1 = fib2;
 		fib2 = s;
 
