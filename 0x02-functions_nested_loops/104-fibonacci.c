@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * numlength - returns the string length
+ * nl - returns the string length
  *
  * @n: operand number
  *
@@ -40,7 +40,7 @@ int main(void)
 	{
 		if (f1o > 0)
 			printf("%lu", f1o);
-		i0s = nl(mx) -1 - nl(f1);
+		i0s = nl(mx) - 1 - nl(f1);
 
 		while (f1o > 0 && i0s > 0)
 		{
