@@ -2,6 +2,8 @@
 
 /**
  * print_to_98 - print n to 98
+ *
+ * @n: input
 */
 
 void print_to_98(int n)
