@@ -57,7 +57,7 @@ int main(void)
 		f2o = so;
 
 		if (c != 98)
-			printf(",");
+			printf(", ");
 		else
 			printf("\n");
 	}
