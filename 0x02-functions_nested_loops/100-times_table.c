@@ -14,6 +14,7 @@ void print_times_table(int n)
 	{
 		for (x = 0; x <=  n; x++)
 		{
+			_putchar(48);
 			for (m = 0; m <=  n; m++)
 			{
 				_putchar(',');
