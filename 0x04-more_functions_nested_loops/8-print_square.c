@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - print a diagonal
+ * print_square - print a square
  *
  * @size: the square size
  *
@@ -15,7 +15,7 @@ void print_square(int size)
 	for (p = 1; p <= size; p++)
 	{
 		for (s = 1; s <= size; s++)
-			_putchar('35');
+			_putchar(35);
 		_putchar('\n');
 	}
 }
