@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
 
 /**
  * main - multiplies two numbers
@@ -26,4 +27,3 @@ int mai(int argc, char *argv[])
 
 	return (0);
 }
-
