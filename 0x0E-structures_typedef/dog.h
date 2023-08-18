@@ -8,7 +8,7 @@
  * @owner: Third member
  *
  * Description: Longer description
-*/
+ */
 
 struct dog
 {
@@ -19,7 +19,7 @@ struct dog
 
 /**
  * dog_t - typedef for struct dog
-*/
+ */
 
 typedef struct dog dog_t;
 
